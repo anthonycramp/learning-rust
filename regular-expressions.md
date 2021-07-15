@@ -41,3 +41,13 @@ expensive and it will add up when I'm calling `parse` for each line of a many
 line file.
 
 I don't know what `#[macro_use]` does. Nor `extern crate ...`.
+
+## Thoughts
+
+I've generally been writing my `parse` functions (or `impl From`) to deal with a
+single line of input. This necessitates the use of `lazy_static` because,
+otherwise, each call to `parse` would recompile the regular expression --- an
+expensive operation. An alternative approach would be to have the `parse`
+function take the whole input and return some structured version of the data. In
+this case, `parse` would only be called once and, therefore, the regular
+expression would only be compiled once.
