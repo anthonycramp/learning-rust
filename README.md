@@ -38,6 +38,11 @@ Notes taken on my Rust learning journey
 - [Hands on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/)
 - [Programming WebAssembly with Rust](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/)
 
+### Around the Web
+
+- [Exploring Async Basics with Rust](https://cfsamson.github.io/book-exploring-async-basics/)
+- [Zero to Production in Rust](https://www.zero2prod.com/)
+
 ### Leanpub
 
 No experience with these titles
