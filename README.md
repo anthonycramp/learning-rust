@@ -66,3 +66,8 @@ https://www.packtpub.com/au/catalogsearch/result/?q=Rust&released=Available~Comi
 - [Rustlings](https://github.com/rust-lang/rustlings/)
 - [Interoduction to the Rust Programming Language (Frontend Masters)](https://frontendmasters.com/workshops/intro-rust/)
 - [Get started with Rust](https://docs.microsoft.com/en-us/learn/modules/rust-get-started/)
+
+## Websites/Blogs
+
+- [jeffa.io](https://jeffa.io) --- Contains a good post on Rust packages vs
+  crates.
