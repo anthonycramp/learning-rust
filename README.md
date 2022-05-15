@@ -63,7 +63,7 @@ I've not looked at any of these titles.
 For completeness. I haven't looked at any of these titles and may not because
 I've not been impressed with Packt Pub books in the past.
 
-https://www.packtpub.com/au/catalogsearch/result/?q=Rust&released=Available~Coming%20soon&language=Rust
+https://subscription.packtpub.com/search?query=rust
 
 ### Other
 
