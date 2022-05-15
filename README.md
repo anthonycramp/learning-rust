@@ -13,8 +13,7 @@ Notes taken on my Rust learning journey
 ### O'Reilly
 
 - [Programming Rust, 2nd Ed](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
-- [Hands-On Systems Programming with Rust](https://learning.oreilly.com/library/view/hands-on-systems-programming/9781098109424/)
-  --- Early Access
+- [Command-Line Rust](https://learning.oreilly.com/library/view/command-line-rust/9781098109424/)
 
 ### Manning
 
