@@ -30,7 +30,7 @@ Notes taken on my Rust learning journey
   --- This book contains the content from
   [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
   at some time in the past. I.e., the website is probably more up to date.
-- [Rust for Rustaceans](https://nostarch.com/rust-rustaceans) --- Early Access
+- [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
 
 ### Pragmatic Bookshelf
 
@@ -68,7 +68,7 @@ https://www.packtpub.com/au/catalogsearch/result/?q=Rust&released=Available~Comi
 ## Courses
 
 - [Rustlings](https://github.com/rust-lang/rustlings/)
-- [Interoduction to the Rust Programming Language (Frontend Masters)](https://frontendmasters.com/workshops/intro-rust/)
+- [Introduction to the Rust Programming Language (Frontend Masters)](https://frontendmasters.com/workshops/intro-rust/)
 - [Get started with Rust](https://docs.microsoft.com/en-us/learn/modules/rust-get-started/)
 
 ## Websites/Blogs
