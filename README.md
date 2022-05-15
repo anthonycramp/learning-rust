@@ -65,6 +65,10 @@ I've not been impressed with Packt Pub books in the past.
 
 https://www.packtpub.com/au/catalogsearch/result/?q=Rust&released=Available~Coming%20soon&language=Rust
 
+### Other
+
+- [Fullstack Rust](https://www.newline.co/fullstack-rust)
+
 ## Courses
 
 - [Rustlings](https://github.com/rust-lang/rustlings/)
