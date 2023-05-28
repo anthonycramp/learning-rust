@@ -74,6 +74,7 @@ https://subscription.packtpub.com/search?query=rust
 - [Rustlings](https://github.com/rust-lang/rustlings/)
 - [Introduction to the Rust Programming Language (Frontend Masters)](https://frontendmasters.com/workshops/intro-rust/)
 - [Get started with Rust](https://docs.microsoft.com/en-us/learn/modules/rust-get-started/)
+- [Google Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 
 ## Websites/Blogs
 
