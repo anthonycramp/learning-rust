@@ -14,6 +14,9 @@ Notes taken on my Rust learning journey
 
 - [Programming Rust, 2nd Ed](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 - [Command-Line Rust](https://learning.oreilly.com/library/view/command-line-rust/9781098109424/)
+- [Effective Rust](https://learning.oreilly.com/library/view/effective-rust/9781098151393/)
+- [Async Rust (Early Access as of 20240921)](https://learning.oreilly.com/library/view/async-rust/9781098149086/)
+- [Rust Atomics and Locks](https://learning.oreilly.com/library/view/rust-atomics-and/9781098119430/)
 
 ### Manning
 
@@ -21,6 +24,10 @@ Notes taken on my Rust learning journey
 - [Rust Web Development](https://www.manning.com/books/rust-web-development)
 - [Rust Servers, Services, and Apps](https://www.manning.com/books/rust-servers-services-and-apps)
 - [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust)
+- [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
+- [Learn Rust in a Month of Lunches](https://www.manning.com/books/learn-rust-in-a-month-of-lunches)
+- [Idiomatic Rust](https://www.manning.com/books/idiomatic-rust)
+- [Write Powerful Rust Macros](https://www.manning.com/books/write-powerful-rust-macros)
 - [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
 - [A Rust Sampler](https://www.manning.com/books/a-rust-sampler) --- Free
 
@@ -36,6 +43,8 @@ Notes taken on my Rust learning journey
 
 - [Hands on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/)
 - [Programming WebAssembly with Rust](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/)
+- [Rust Brain Teasers](https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/)
+- [Advanced Hands-on Rust](https://pragprog.com/titles/hwmrust/advanced-hands-on-rust/)
 
 ### Around the Web
 
